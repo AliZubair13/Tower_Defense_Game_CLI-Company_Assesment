@@ -43,6 +43,9 @@ cmake --build build/Release-Windows --config Release-Windows
 
   <img width="601" height="334" alt="image" src="https://github.com/user-attachments/assets/a37084f2-89eb-4b40-952f-a4a40b63d91d" />
 
+  <img width="597" height="244" alt="image" src="https://github.com/user-attachments/assets/da469024-1a0d-47a6-b719-322bc56a9b45" />
+
+
 
 ✅ **Run the Tests:**
 ```sh
@@ -52,6 +55,9 @@ ctest --testdir build/Release-Windows
 - All assertions verified
 - Performance within budget
 
+  <img width="594" height="145" alt="image" src="https://github.com/user-attachments/assets/84d6bcf7-11a4-489c-887a-56ed0b40b02c" />
+
+
 ✅ **Run the Game:**
 ```sh
 build/Release-Windows/tower-defense-cli.exe
@@ -60,6 +66,12 @@ build/Release-Windows/tower-defense-cli.exe
 - Smooth 10 FPS gameplay
 - All features functional
 
+<img width="600" height="451" alt="image" src="https://github.com/user-attachments/assets/0e89b64a-bbfd-4b87-a61b-38efcfdc5914" />
+
+<img width="627" height="445" alt="image" src="https://github.com/user-attachments/assets/068958b2-af48-4cd5-b383-539bf49e399a" />
+
+<img width="656" height="454" alt="image" src="https://github.com/user-attachments/assets/fa4fc289-446b-4f0e-b448-9cbaae3a4468" />
+
 
 **PRODUCTION READY**- All requirements met, 0 errors, 100% tests passed, game runs successfully.
 
@@ -67,4 +79,5 @@ build/Release-Windows/tower-defense-cli.exe
 #### Controls
 A: Turns Auto Fire on/off
 Escape: Quits the game
+
 
